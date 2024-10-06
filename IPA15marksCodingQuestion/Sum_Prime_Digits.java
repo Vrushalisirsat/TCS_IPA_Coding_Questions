@@ -1,4 +1,4 @@
-package IPA15marksCodingQuestion;
+//package IPA15marksCodingQuestion;
 import java.util.*;
 class Sum_Prime_Digits {
     public static void main(String[] args)
